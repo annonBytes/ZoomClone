@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-zoom-clone",
+  "version": "1.0.0",
+  "description": "Zoom clone",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annonBytes/ZoomClone.git"
+  },
+  "keywords": [
+    "Zoom"
+  ],
+  "author": "Ockiya Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annonBytes/ZoomClone/issues"
+  },
+  "homepage": "https://github.com/annonBytes/ZoomClone#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
